@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: Wordpress
   author: codenamenuke
   description: Wordpress role for the main installation tasks
 
@@ -9,7 +10,7 @@ galaxy_info:
   platforms:
   - name: Ubuntu
     versions:
-    - 18.04
+    - bionic
 
   galaxy_tags:
     - wordpress
