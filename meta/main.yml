@@ -1,7 +1,7 @@
 galaxy_info:
-  role_name: Wordpress
+  role_name: wordpress
   author: codenamenuke
-  description: Wordpress role for the main installation tasks
+  description: Install & Configure WordPress with Apache, PHP & MySQL
 
   license: license (MIT)
 
