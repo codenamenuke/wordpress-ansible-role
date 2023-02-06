@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/codenamenuke/wordpress-ansible-role) ![](https://img.shields.io/badge/ansible%20score-5%2F5-brightgreen)
+
 WordPress Role
 =========
 Ansible role for installing & configuring WordPress with Apache2 server on Ubuntu Systems.
