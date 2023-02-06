@@ -30,11 +30,11 @@ Here is an example Playbook.
 
 Contributing
 ------------
-Please feel free to open issues if you find any bugs, problems or if you see room for improvement. Also feel free to contact me anytime if you want to ask or discuss something.
+If you find any bugs, issues or improvement opportunities, feel free to open issues or contact me.
 
 Disclaimer
 ----------
-This role is provided AS IS and I can and will not guarantee that the role works as intended, nor can I be accountable for any damage or misconfiguration done by this role. Study the role thoroughly before using it.
+This role can alter system configurations by installing software. I can not and will not guarantee that it works as intended. Any damage or misconfiguration caused shall be your sole resposnsibility. Please study the role carefully before using.
 
 License
 -------
