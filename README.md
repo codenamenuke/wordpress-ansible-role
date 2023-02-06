@@ -4,7 +4,7 @@ Ansible role for installing & configuring WordPress with Apache2 server on Ubunt
 
 Role Variables
 --------------
-This role only fetches MySQL user, password and DB name as variables from `defaults/main.yml`.
+This role only fetches MySQL user, password and DB name as variables from `defaults/main.yml`. You can create a separate vars.yml or a vars folder or directly mention your specific vars inside the main playbook and pass encrypted variables using Ansible Vault.
 
 ```yaml
 my_sql_db: wordpress

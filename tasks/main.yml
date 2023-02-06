@@ -56,7 +56,7 @@
   command: mv /var/www/html/wordpress/wp-config-sample.php /var/www/html/wordpress/wp-config.php creates=/var/www/html/wordpress/wp-config.php
   become: true
 
-- name: Wordpress | Copy wp-config.php file content
+- name: Copy wp-config.php file content
   become: true
   template:
     src: wp-config.php.j2
